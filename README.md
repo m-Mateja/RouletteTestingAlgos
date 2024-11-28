@@ -29,6 +29,7 @@ In a sample size of 100 games, there were 83 games where you did not double your
 
 If you were somehow able to obtain an exorbitant bankroll, this strategy may work for a while... until it doesn't. This is precicely why casinos have a minimum and maximum bet in place. The majority of the simulated runs were stopped due to the maximum bet amount being triggered. Besides this fact, the simulations showcase the problem with underestimating black swan events. As the number of games increase, so does the probability of black swan events. Never underestimate the improbable.
 
+ha
 
 
 
